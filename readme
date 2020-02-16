@@ -1,13 +1,13 @@
-<h1> How to use? </h1>
+# How to use?
 
-<ul>
-  <li>Install all libs, using "npm/yarn install"</li>
-  <li>Open the terminal</li>
-  <li>Open the project</li>
-  <li>Run "docker-compose up"</li>
-  <li>Open more 2 terminals</li>
-  <li>One run "npm run/yarn listen" to listen the queue</li>
-  <li>And the other run "npm run/yarn sender"</li>
-</ul>
 
-<p> To configure the rabbitmq, after run the docker compose run in your browser "http://localhost:8080"</p>
+  *Install all libs, using "npm/yarn install"
+  *Open the terminal
+  *Open the project
+  *Run "docker-compose up"
+  *Open more 2 terminals
+  *One run "npm run/yarn listen" to listen the queue
+  *And the other run "npm run/yarn sender"
+
+
+**To configure the rabbitmq, after run the docker compose run in your browser "http://localhost:8080"**
